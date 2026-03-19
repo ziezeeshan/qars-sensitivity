@@ -1,0 +1,20 @@
+QARS SENSITIVITY ANALYSIS RESULTS
+n_runs=10000, n_assets=50, seed=42
+
+BASELINE
+  RED:    30/50
+  YELLOW: 16/50
+  GREEN:  4/50
+
+MONTE CARLO
+  Same class:    96.9%
+  One shift:     3.1%
+  Two shift:     0.0%
+  Mean |ΔQARS|:  0.0134
+  95% CI:        [0.0005, 0.0428]
+
+MOSCA ZT SENSITIVITY
+  ZT=10: 44/50 (88%)
+  ZT=15: 35/50 (70%)
+  ZT=20: 32/50 (64%)
+  ZT=30: 19/50 (38%)

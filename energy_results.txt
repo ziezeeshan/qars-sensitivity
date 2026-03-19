@@ -1,0 +1,9 @@
+STM32F407 ENERGY SENSITIVITY RESULTS
+Current: 50 mA (datasheet Table 24)
+Time:    134 ms (pqm4 ML-DSA-65)
+
+ Voltage |  Energy_mJ |  Signs/1000mAh
+----------------------------------------
+   1.8 V |       12.1 |      1.104e+06
+   3.0 V |       20.1 |      6.627e+05
+   3.3 V |       22.1 |      6.024e+05
