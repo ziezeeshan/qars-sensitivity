@@ -1,0 +1,7 @@
+=== ENERGY SENSITIVITY RESULTS ===
+Current: 50mA (STM32F407 datasheet)
+Time: 134ms (pqm4 benchmark)
+
+1.8V: 12.1 mJ, ~1.10e+06 signatures/1000mAh
+3.0V: 20.1 mJ, ~6.63e+05 signatures/1000mAh
+3.3V: 22.1 mJ, ~6.02e+05 signatures/1000mAh
